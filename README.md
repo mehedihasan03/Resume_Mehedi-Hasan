@@ -19,10 +19,11 @@ Software Developer at **Celloscope Ltd**, adept in crafting high-quality, scalab
 
 ## 🛠️ Skills
 - **Programming Languages**: Java, JavaScript, C#, Dart
-- **Frameworks & Technologies**: Spring Boot, Spring Security, Angular, Flutter, Hibernate, Javax Swing, JSP, Spring MVC
+- **Frameworks & Technologies**: Spring Framework, Spring Boot, Spring Security, Angular, Flutter, Hibernate, Javax Swing, JSP
 - **Databases**: MySQL, PostgreSQL, Oracle Database 11g
 - **Tools**: Git, GitHub, GitLab, Jasper (JRXML)
-- **Other**: Clean Architecture, Android, Servlets, RESTful APIs
+- **Reporting-Tools**: Jasper (JRXML)
+- **Other**: Clean Architecture, RESTful APIs, Android, Servlets
 
 ---
 
@@ -46,11 +47,11 @@ Software Developer at **Celloscope Ltd**, adept in crafting high-quality, scalab
 - **Master of Science** in CSE (Computer Science and Engineering)  
   **Islamic University, Kushtia (IU)**
 
-- **Master of Science** in Entomology  
-  **National University, Gazipur, Dhaka**
-
 - **Diploma in Enterprise Systems Analysis & Design**  
   IsDB-BISEW IT Scholarship Project, IDB Bhaban, Dhaka
+
+- **Master of Science** in Entomology  
+  **National University, Gazipur, Dhaka**
 
 ---
 
@@ -92,7 +93,7 @@ Software Developer at **Celloscope Ltd**, adept in crafting high-quality, scalab
 - **Father’s Name**: Mohib Ullah
 - **Mother’s Name**: Anjuman Ara
 - **Date of Birth**: 13th July 1996
-- **Marital Status**: Unmarried
+- **Marital Status**: Married
 - **Religion**: Islam
 - **Nationality**: Bangladeshi
 
